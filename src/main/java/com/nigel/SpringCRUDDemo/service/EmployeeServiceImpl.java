@@ -1,3 +1,5 @@
+/*
+
 package com.nigel.SpringCRUDDemo.service;
 
 import com.nigel.SpringCRUDDemo.dao.EmployeeDAO;
@@ -12,6 +14,8 @@ import java.util.Optional;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {
+
+ */
 
     /*
     private EmployeeDAO employeeDAO;
@@ -37,6 +41,8 @@ public class EmployeeServiceImpl implements EmployeeService {
     @Override
     public void deleteById(int theId) { employeeDAO.deleteById(theId); }
     */
+
+/*
 
     private EmployeeRepository employeeRepository;
 
@@ -74,3 +80,5 @@ public class EmployeeServiceImpl implements EmployeeService {
     }
 
 }
+
+*/
